@@ -1,0 +1,27 @@
+{
+  "name": "web-development",
+  "version": "1.0.0",
+  "description": "web development learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msalman88/front-end.git"
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "Muhammad Salman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msalman88/front-end/issues"
+  },
+  "homepage": "https://github.com/msalman88/front-end#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
